@@ -1,4 +1,4 @@
-# SUSPICIOUS_FOLDER_SCANNER
+# SUSPICIOUS_FILE/FOLDER_SCANNER
 
 # 🛡️ Simple SOC File & Folder Scanner (Python)
 
